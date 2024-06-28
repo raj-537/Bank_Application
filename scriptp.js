@@ -1,8 +1,8 @@
 // Creating an array of objects
 let people = [
     { 
-        name: 'NOBIN', 
-        user: 'nobin', 
+        name: 'Raj', 
+        user: 'raj', 
         pin: 1234,
         transactions: [
         { type: 'withdrawl', amount: 20 , dates: '11/3/2024 4:45:48 PM',p:'abhay'},
