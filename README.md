@@ -24,8 +24,8 @@ Explore the live demo: [Bankify Demo](https://raj-537.github.io/Bank_Application
    - Initial user data is provided in `script.js`:
      ```javascript
      {
-       name: 'NOBIN',
-       user: 'nobin',
+       name: 'Raj',
+       user: 'Raj',
        pin: 1234,
        transactions: [
          { type: 'withdrawal', amount: 20, dates: '11/3/2024 4:45:48 PM', p: 'abhay' },
